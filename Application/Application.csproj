@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\Interfaces\" />
+    <Folder Include="Mail\Commands\" />
+    <Folder Include="Mail\Enums\" />
+    <Folder Include="Mail\Interfaces\" />
+    <Folder Include="Mail\Models\" />
+  </ItemGroup>
+
+</Project>
